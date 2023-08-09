@@ -8,6 +8,9 @@
 
 ## A diagram explaining project and repository context and how they are integrated
 
+![diagram explaining project and repository context and how they are integrated](https://github.com/cm-ngokx/CMPG-323-Overview-31846769-CM.Ngokana/assets/127525159/e3e2bda3-9337-4ac3-900a-e6b2f9d1c524)
+
+
 ## Branching strategy
 They are two branches that are going to be used the main/master branch and the develop branch as illustrated by the following diagram:
 
