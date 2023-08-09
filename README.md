@@ -8,7 +8,8 @@
 
 ## A diagram explaining project and repository context and how they are integrated
 
-## Branching strategy 
+## Branching strategy
+They are two branches that are going to be used the main/master branch and the develop branch as illustrated by the following diagram:
 
 ## The use of a .gitignore file within each project
 Gitignore specifies which files and directories should be ignored and not tracked by Git so as to manage source control.
