@@ -5,4 +5,12 @@
 * CMPG-323-Project-3-31846769 (https://github.com/cm-ngokx/CMPG-323-Project-3-31846769.git)
 * CMPG-323-Project-4-31846769 (https://github.com/cm-ngokx/CMPG-323-Project-4-31846769.git)
 * CMPG-323-Project-5-31846769 (https://github.com/cm-ngokx/CMPG-323-Project-5-31846769.git)
+
+## A diagram explaining project and repository context and how they are integrated
+
+## Branching strategy 
+
+## The use of a .gitignore file within each project
+
+## The storage of credentials and sensitive information explained
   
