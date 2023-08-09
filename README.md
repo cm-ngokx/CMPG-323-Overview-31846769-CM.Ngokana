@@ -10,6 +10,7 @@
 
 ## Branching strategy
 They are two branches that are going to be used the main/master branch and the develop branch as illustrated by the following diagram:
+
 ![Branching Strategy diagram](https://github.com/cm-ngokx/CMPG-323-Overview-31846769-CM.Ngokana/assets/127525159/b32eca58-4f27-4af9-af0b-060ba358320d)
 
 ## The use of a .gitignore file within each project
