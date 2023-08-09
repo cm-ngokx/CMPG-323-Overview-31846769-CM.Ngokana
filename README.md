@@ -10,7 +10,7 @@
 
 ## Branching strategy
 They are two branches that are going to be used the main/master branch and the develop branch as illustrated by the following diagram:
-<img srs ="%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22endArrow%3Dclassic%3Bhtml%3D1%3Brounded%3D0%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3B%22%20edge%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20width%3D%2250%22%20height%3D%2250%22%20relative%3D%221%22%20as%3D%22geometry%22%3E%3CmxPoint%20x%3D%22640%22%20y%3D%22304.5%22%20as%3D%22sourcePoint%22%2F%3E%3CmxPoint%20x%3D%22800%22%20y%3D%22304.5%22%20as%3D%22targetPoint%22%2F%3E%3CArray%20as%3D%22points%22%2F%3E%3C%2FmxGeometry%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E">
+![Branching Strategy diagram](https://github.com/cm-ngokx/CMPG-323-Overview-31846769-CM.Ngokana/assets/127525159/b32eca58-4f27-4af9-af0b-060ba358320d)
 
 ## The use of a .gitignore file within each project
 Gitignore specifies which files and directories should be ignored and not tracked by Git so as to manage source control.
